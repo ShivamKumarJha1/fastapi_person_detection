@@ -46,5 +46,5 @@ typing-extensions==3.10.0.2
 tzdata==2020.5
 urllib3==1.25.11
 uvicorn==0.13.4
-watchfiles==0.0.7
+watchfiles== 0.21.0
 websockets==8.1
